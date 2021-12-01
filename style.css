@@ -1,13 +1,4 @@
-.backgroundbox{
-  background-color: #c4816E;
-  height: 80%;
-  width: 55%;
-  right: 0px;
-  top: 0px;
-  float: right;
-  position: absolute;
-  z-index: 1;
-}
+
 body {
     margin: 0;
     background: #FFFF;
